@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'XWNetworking' do
+    
+pod 'AFNetworking'        #网络请求库
+
+end
