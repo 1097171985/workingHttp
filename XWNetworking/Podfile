@@ -3,6 +3,6 @@ use_frameworks!
 
 target 'XWNetworking' do
     
-pod 'AFNetworking'        #网络请求库
+pod 'AFNetworking', '~> 3.0.4'     #网络请求库
 
 end
