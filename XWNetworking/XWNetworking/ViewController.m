@@ -8,7 +8,6 @@
 
 #import "ViewController.h"
 #import "XWNetworkingManager.h"
-#import "MBProgressHUD.h"
 #import "XWAfnGlobeConst.h"
 
 @interface ViewController ()

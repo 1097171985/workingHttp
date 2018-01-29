@@ -8,10 +8,6 @@
 
 #import "XWNetworkingManager.h"
 
-#import <AVFoundation/AVAsset.h>
-#import <AVFoundation/AVAssetExportSession.h>
-#import <AVFoundation/AVMediaFormat.h>
-#import <UIKit/UIKit.h>
 
 //const NSMutableString *HSCoder = [NSMutableString alloc]initWithFormat:@"Hello"];
 

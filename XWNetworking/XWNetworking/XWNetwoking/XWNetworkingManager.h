@@ -6,8 +6,12 @@
 //  Copyright © 2017年 xinwang2. All rights reserved.
 //
 
-#import <AFNetworking/AFNetworking.h>
 #import "XWAfnGlobeConst.h"
+#import <AFNetworking/AFNetworking.h>
+#import <AVFoundation/AVAsset.h>
+#import <AVFoundation/AVAssetExportSession.h>
+#import <AVFoundation/AVMediaFormat.h>
+#import <UIKit/UIKit.h>
 
 typedef void(^XWHUDBlock)(UIViewController *hudViewController);
 //请求成功的block
